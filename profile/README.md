@@ -35,4 +35,6 @@ A quick look at key parts in action:
 - **Others**: Terminal access and active internet connection  
 
 ## 🔍 SEO Keywords  
-`macOS automation` · `auto clicker` · `mouse automation` · `productivity tool` · `privacy-focused` · `click scheduler`
+`macOS click automation` · `auto clicker for M1 Mac` · `privacy-focused mouse recorder`  
+`RPA software for Mac` · `game bot detection bypass` · `no-code task automation`  
+`best auto clicker 2024` · `local execution automation tool` · `low-CPU usage clicker`  
